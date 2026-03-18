@@ -1,4 +1,4 @@
-# E-Commerce Application – User Story Blueprint (Markdown Template)
+# E-Commerce Application – User Story Blueprint (Markdown )
 
 This document provides a structured, end-to-end **user story master template** for an e‑commerce application. You can upload this file directly in **Azure DevOps** and use it to generate Epics, Features, and User Stories.
 
