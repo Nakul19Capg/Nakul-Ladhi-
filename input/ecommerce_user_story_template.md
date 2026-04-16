@@ -7,7 +7,7 @@ THIS IS A MAIN BRANCH DOCUMENT
 
 ## 1. Epic: User Registration & Authentication
 
-### Feature: User Account Creation
+
 **User Story:**
 - As a *new customer*, I want to *create an account* so that *I can access personalized features*.
 
