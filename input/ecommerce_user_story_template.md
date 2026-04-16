@@ -1,7 +1,6 @@
 # E-Commerce Application – User Story Blueprint (Markdown )
 
-This document provides a structured, end-to-end **user story master template** for an e‑commerce application. You can upload this file directly in **Azure DevOps** and use it to generate Epics, Features, and User Stories.
-
+THIS IS A MAIN BRANCH DOCUMENT
 ---
 
 # 🛒 **E-Commerce Application – User Story Master Document**
@@ -14,9 +13,9 @@ This document provides a structured, end-to-end **user story master template** f
 
 **Acceptance Criteria:**
 - Must allow email/phone signup
-- OTP / email verification
+- OTP / email verificatio ajvlknalnmvlalvml;a
 - Password policy enforcement
-- Error handling messages
+- Error handling messagesajvnlanmlv alln lanlj
 
 ---
 
@@ -24,7 +23,7 @@ This document provides a structured, end-to-end **user story master template** f
 
 ### Feature: Product Catalog
 **User Story:**
-- As a *customer*, I want to *view all products* so that *I can choose items to buy*.
+- As a *customer*, I want tanva,nljvnalnlvo *view all products* so that *I can choose items to buy*.
 
 **Acceptance Criteria:**
 - Category filtering
@@ -164,3 +163,11 @@ This file is ready for import into Azure DevOps or GitHub. You can also ask me t
 - Expand this into **full EPIC → Feature → PBI → Tasks** hierarchy
 - Generate **ADO work item import CSV**
 - Create a **GitHub project planning board**
+
+
+---Git Merge conflict check
+// this are just for the testing purpose  to check the functionality of the copilot and to check the markdown formatting in the ADO wiki.
+//Add more user stories and features as needed to cover additional functionalities of the e-commerce application.
+
+
+_
